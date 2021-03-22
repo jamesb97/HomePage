@@ -1,0 +1,23 @@
+{
+  "name": "HomePage",
+  "version": "1.0.0",
+  "description": "This page showcases some of my skills, projects, and blog posts I have built and written as a developer.",
+  "main": "canvas.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesb97/HomePage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesb97/HomePage/issues"
+  },
+  "homepage": "https://github.com/jamesb97/HomePage#readme",
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
+  }
+}
