@@ -44,11 +44,10 @@ $(document).ready(function () {
       link: "https://gatsbytravel-46db7.web.app/",
     },
     walker: {
-      title: "WaveSound",
-      tag: "WAVESOUND PRODUCTIONS.",
-      detail:
-        "WaveSound is a music streaming web application that lets users listen to the latest music catalog charts, albums and more.",
-      link: "https://upbeat-mirzakhani-c122ad.netlify.app/",
+      title: "Bytesize Shortener",
+      tag: "BYTESIZE JavaScript.",
+      detail: "URL shortener application created with Angular and jQuery.",
+      link: "https://bytesize-short.netlify.app/",
     },
     powur: {
       title: "ACME Storefront",

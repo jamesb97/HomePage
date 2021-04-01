@@ -6204,6 +6204,17 @@ section:nth-of-type(4) .blog-wrap #thumb-3 {
 section:nth-of-type(4) .blog-wrap #thumb-4 {
   background: url("../img/vr1.jpg") center center/cover;
 }
+section:nth-of-type(4) .blog-wrap #thumb-5 {
+  background: url("https://project13showcase.netlify.app/static/bg-masthead-d3b4a514dfb172f6ac1817f5bdb974ad.jpg")
+    center center/cover;
+}
+section:nth-of-type(4) .blog-wrap #thumb-6 {
+  background: url("https://project13showcase.netlify.app/static/bg-background-f14bab8bf71cf4badf3dd2d37f5f42cc.png")
+    center center/cover;
+}
+section:nth-of-type(4) .blog-wrap #thumb-7 {
+  background: url("../img/showcase.PNG") center center/cover;
+}
 section:nth-of-type(4) .blog-wrap .fade-wrap {
   transition: opacity 0.3s;
 }
