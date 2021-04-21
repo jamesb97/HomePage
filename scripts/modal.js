@@ -44,10 +44,11 @@ $(document).ready(function () {
       link: "https://gatsbytravel-46db7.web.app/",
     },
     walker: {
-      title: "Bytesize Shortener",
-      tag: "BYTESIZE JavaScript.",
-      detail: "URL shortener application created with Angular and jQuery.",
-      link: "https://bytesize-short.netlify.app/",
+      title: "Food Recipes",
+      tag: "REACT RECIPES.",
+      detail:
+        "Food recipes application with built in search bar capable of displaying multiple cooking recipes.",
+      link: "https://infallible-hamilton-a8e2a2.netlify.app/",
     },
     powur: {
       title: "ACME Storefront",

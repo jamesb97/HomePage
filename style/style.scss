@@ -6078,7 +6078,8 @@ section:nth-of-type(3) .text {
   width: 100%;
 }
 section:nth-of-type(3) #gallery {
-  margin: 20px 0;
+  margin: 20px 0 auto;
+  padding: 0.5rem;
 }
 section:nth-of-type(3) #gallery .text,
 section:nth-of-type(3) #gallery .button {
@@ -6133,7 +6134,7 @@ section:nth-of-type(3) #gallery .mix:nth-child(6) .card {
   background: url("../img/gatsbytravel.PNG") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(7) .card {
-  background: url("../img/HTML2.PNG") center center/cover;
+  background: url("../img/foodrecipe.PNG") center center/cover;
 }
 section:nth-of-type(3) #gallery .mix:nth-child(8) .card {
   background: url("../img/ReactAI.PNG") center center/cover;
