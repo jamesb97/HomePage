@@ -180,7 +180,7 @@ $(function () {
     e.preventDefault();
 
     $.ajax({
-      url: "https://formspree.io/zdravko6t5@gmail.com",
+      url: "https://formspree.io/f/xknkjypb",
       method: "POST",
       data: { message: $("form").serialize() },
       dataType: "json",
